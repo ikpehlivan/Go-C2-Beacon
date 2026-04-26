@@ -6,7 +6,7 @@
 Go-C2-Beacon is a lightweight, stealth-focused Command & Control (C2) framework written in Go (Golang). It is designed for security researchers and Red Team practitioners to demonstrate beaconing mechanisms, encrypted communication channels, and operational security (OPSEC) in a simulated environment.
 
 # 🎯 Project Overview
-In a modern Red Teaming engagement, maintaining a stealthy communication channel with a compromised host is critical. \*\*Go-C2-Beacon\*\* implements a minimalist agent-server architecture using HTTP/S with built-in encryption and traffic randomization to bypass basic network monitoring solutions.
+In a modern Red Teaming engagement, maintaining a stealthy communication channel with a compromised host is critical. **Go-C2-Beacon** implements a minimalist agent-server architecture using HTTP/S with built-in encryption and traffic randomization to bypass basic network monitoring solutions.
 
 # Features
 - **Golang Powered:** Highly portable, statically linked binaries that are difficult to signature-base detect.
