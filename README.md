@@ -33,19 +33,19 @@ Every packet sent over the wire is encrypted using **Advanced Encryption Standar
 
 # Installation & Usage
 ```
-1. **Clone the repository:
+1. Clone the repository:
 git clone https://github.com/ikpehlivan/go-c2-beacon
 cd go-c2-beacon
 
-Initialize modules:
+2. Initialize modules:
 Bash
 go mod init Go-C2-Beacon
 
-Run the Server:
+3. Run the Server:
 Bash
 go run server/main.go
 
-Run the Agent:
+4. Run the Agent:
 Bash
 go run agent/main.go
 ```
