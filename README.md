@@ -52,4 +52,5 @@ go run agent/main.go
 
 # ⚖️ Ethical Use & Disclaimer
 Go-C2-Beacon is created for educational and authorized security assessment purposes only. Unauthorized access to computer systems is illegal. The developer is not responsible for any misuse or damage caused by this tool. Always ensure you have explicit, written consent before performing any security testing.
-- Developed by İlteriş Kaan Pehlivan | Pentester | White Hat Hacker | Security Researcher
+- Developed by İlteriş Kaan Pehlivan
+Offensive Security Researcher · Penetration Tester
